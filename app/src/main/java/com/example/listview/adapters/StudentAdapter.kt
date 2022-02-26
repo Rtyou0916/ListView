@@ -45,8 +45,6 @@ class StudentAdapter(
 
 
 
-
-
         val data = mList[position]
 
 //        row의 텍스트뷰 등등에 data 변수가 가진 하위 정보들을 반영
